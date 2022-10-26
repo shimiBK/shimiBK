@@ -9,7 +9,7 @@
 Last year Computer Science Student @ The Open University Of Israel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Passionate about Web Development.
 
-- 🎹: In my non existent  free time, I produce Electronic music .
+- 🎹: In my nonexistent  free time, I produce Electronic music .
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/shimibk/">
