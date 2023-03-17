@@ -7,7 +7,7 @@
 
 ### :man_technologist: About Me :
 Computer Science Student @ The Open University Of Israel <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: Passionate about Web Development.
+- :telescope: Passionate about Fullstack Development.
 
 - 🎹: In my nonexistent  free time, I produce Electronic music .
 
